@@ -4,8 +4,10 @@ using System.Linq;
 using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
+using GameProject.Abstract;
+using GameProject.Entities;
 
-namespace GameProject
+namespace GameProject.Concentre
 {
     internal class SaleManager : ISalesService
     {

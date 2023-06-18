@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using GameProject.Abstract;
 
-namespace GameProject
+namespace GameProject.Entities
 {
     internal class NewEStateUserValidationManager : IUserValidationService
     {

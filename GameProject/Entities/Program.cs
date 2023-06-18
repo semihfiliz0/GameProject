@@ -1,4 +1,6 @@
 ﻿using GameProject;
+using GameProject.Concentre;
+using GameProject.Entities;
 
 UserManager userManager = new UserManager(new NewEStateUserValidationManager());
 User user = new User();
